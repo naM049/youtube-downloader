@@ -11,7 +11,7 @@ The `youtube-downloader` is a Python script that allows you to download videos f
 
 1. Clone the repository  
     ```bash
-    git clone https://github.com/naM049/youtube-downloader
+    git clone https://github.com/naM049/youtube-downloader.git
     ```
 2. Navigate to the directory where you have cloned the repository.
     ```bash
